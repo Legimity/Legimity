@@ -2,7 +2,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Legimity&show_icons=true&theme=radical)
 - 🔭 I’m currently working on android and windows malware detection.
 - 🌱 I’m currently learning go. Just GO!
-- 👯 I’m looking to collaborate on adversarial attack on android apks.
+- 👯 I’m looking to collaborate on adversarial attack on android apks and windows pe files.
 - 🤔 I’m looking for help with my thesis on these subjects above.
 
 
